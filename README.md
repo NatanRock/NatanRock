@@ -1,4 +1,4 @@
-![MasterHead](https://philna.sh/_astro/react.738ca5dd.gif)
+![MasterHead](https://github.com/NatanRock/NatanRock/blob/main/original-ec7c060b81c016f968e7cc3bf103a6a0.gif)
 <h1 align="center">Hi 👋, I'm Dmitry Tishakv</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 <img class="right" alt="Coding" width="400px" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" >
