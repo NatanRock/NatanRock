@@ -36,7 +36,7 @@ I'm a passionate **Front-End Developer** from Kyiv, Ukraine 🇺🇦
 ## 📫 Let's Connect
 
 - Email: **mr.tishakov@gmail.com**
-- LinkedIn: _coming soon..._
-- Telegram: _coming soon..._
+- LinkedIn: https://www.linkedin.com/in/dmytro-tishakov-566901135/
+- Telegram: @NatanRock
 
 ---
