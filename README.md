@@ -48,6 +48,7 @@ I'm a passionate **Front-End Developer** from Kyiv, Ukraine 🇺🇦
 
 ### Other Tools
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitLab](https://img.shields.io/badge/GitLab-000?style=for-the-badge&logo=gitlab)
 
 ---
 
