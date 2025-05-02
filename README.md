@@ -28,11 +28,14 @@ I'm a passionate **Front-End Developer** from Kyiv, Ukraine 🇺🇦
 ![Vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vue.js)
 
 ### Styling
+
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
 ![SCSS](https://img.shields.io/badge/SCSS-000?style=for-the-badge&logo=sass)
 ![LESS](https://img.shields.io/badge/LESS-000?style=for-the-badge&logo=less)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
+![Shadcn UI](https://img.shields.io/badge/Shadcn%20UI-000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAwIiBoZWlnaHQ9IjMwMCIgdmlld0JveD0iMCAwIDMwMCAzMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjMwMCIgaGVpZ2h0PSIzMDAiIGZpbGw9IiMwMDAiLz48L3N2Zz4=)
+![Storybook](https://img.shields.io/badge/Storybook-000?style=for-the-badge&logo=storybook)
 
 ### Build Tools
 ![Gulp](https://img.shields.io/badge/Gulp-000?style=for-the-badge&logo=gulp)
