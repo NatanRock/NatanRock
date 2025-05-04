@@ -22,10 +22,16 @@ I'm a passionate **Front-End Developer** from Kyiv, Ukraine 🇺🇦
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+![React Router](https://img.shields.io/badge/React%20Router-000?style=for-the-badge&logo=reactrouter)
+![React Query](https://img.shields.io/badge/React%20Query-000?style=for-the-badge&logo=reactquery)
 ![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-000?style=for-the-badge&logo=redux)
 ![Zustand](https://img.shields.io/badge/Zustand-000?style=for-the-badge&logo=zotero)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
 ![Vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vue.js)
+![Svelte](https://img.shields.io/badge/Svelte-000?style=for-the-badge&logo=svelte)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-000?style=for-the-badge&logo=alpine.js)
+
 
 ### Styling
 
