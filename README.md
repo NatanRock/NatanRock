@@ -51,6 +51,8 @@ I'm a passionate **Front-End Developer** from Kyiv, Ukraine 🇺🇦
 ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
 ![WordPress](https://img.shields.io/badge/WordPress-000?style=for-the-badge&logo=wordpress)
 ![Golang](https://img.shields.io/badge/Golang-000?style=for-the-badge&logo=go)
+![Twig](https://img.shields.io/badge/Twig-000?style=for-the-badge&logo=twig)
+![Composer](https://img.shields.io/badge/Composer-000?style=for-the-badge&logo=composer)
 
 ### Other Tools
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
