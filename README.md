@@ -61,9 +61,7 @@ I'm a passionate **Front-End Developer** from Kyiv, Ukraine 🇺🇦
 ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
 ![WordPress](https://img.shields.io/badge/WordPress-000?style=for-the-badge&logo=wordpress)
 ![Golang](https://img.shields.io/badge/Golang-000?style=for-the-badge&logo=go)
-![Twig](https://img.shields.io/badge/Twig-000?style=for-the-badge&logo=twig)
-![Composer](https://img.shields.io/badge/Composer-000?style=for-the-badge&logo=composer)
-![WP-CLI](https://img.shields.io/badge/WP--CLI-000?style=for-the-badge&logo=wordpress)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
 ![REST API](https://img.shields.io/badge/REST%20API-000?style=for-the-badge&logo=json)
 
 ---
@@ -71,9 +69,12 @@ I'm a passionate **Front-End Developer** from Kyiv, Ukraine 🇺🇦
 ### 🚀 Other Tools & Cloud
 
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![GitLab](https://img.shields.io/badge/GitLab-000?style=for-the-badge&logo=gitlab)
+![WP-CLI](https://img.shields.io/badge/WP--CLI-000?style=for-the-badge&logo=wordpress)
+![Twig](https://img.shields.io/badge/Twig-000?style=for-the-badge&logo=twig)
+![Composer](https://img.shields.io/badge/Composer-000?style=for-the-badge&logo=composer)
 
 ---
 
