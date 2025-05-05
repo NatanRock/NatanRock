@@ -18,7 +18,7 @@ I'm a passionate **Front-End Developer** from Kyiv, Ukraine 🇺🇦
 
 ## 🛠️ Tech Stack
 
-### 📌 Front-End
+### 🎨 Front-End & UI
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
@@ -45,36 +45,65 @@ I'm a passionate **Front-End Developer** from Kyiv, Ukraine 🇺🇦
 
 ---
 
-### ⚡ Build Tools & Dev Experience
+### ⚡ Build Tools & Package Managers
 
 ![Vite](https://img.shields.io/badge/Vite-000?style=for-the-badge&logo=vite)
+![Webpack](https://img.shields.io/badge/Webpack-000?style=for-the-badge&logo=webpack)
 ![Gulp](https://img.shields.io/badge/Gulp-000?style=for-the-badge&logo=gulp)
 ![Storybook](https://img.shields.io/badge/Storybook-000?style=for-the-badge&logo=storybook)
 
 ![NPM](https://img.shields.io/badge/NPM-000?style=for-the-badge&logo=npm)
 ![PNPM](https://img.shields.io/badge/PNPM-000?style=for-the-badge&logo=pnpm)
+![Yarn](https://img.shields.io/badge/Yarn-000?style=for-the-badge&logo=yarn)
 
 ---
 
-### 🛠 Backend & CMS
+### 🧰 Backend, CMS & APIs
+
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![REST API](https://img.shields.io/badge/REST%20API-000?style=for-the-badge&logo=json)
+![GraphQL](https://img.shields.io/badge/GraphQL-000?style=for-the-badge&logo=graphql)
 
 ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
 ![WordPress](https://img.shields.io/badge/WordPress-000?style=for-the-badge&logo=wordpress)
+![WP-CLI](https://img.shields.io/badge/WP--CLI-000?style=for-the-badge&logo=wordpress)
+![Twig](https://img.shields.io/badge/Twig-000?style=for-the-badge&logo=twig)
+![Composer](https://img.shields.io/badge/Composer-000?style=for-the-badge&logo=composer)
 ![Golang](https://img.shields.io/badge/Golang-000?style=for-the-badge&logo=go)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![REST API](https://img.shields.io/badge/REST%20API-000?style=for-the-badge&logo=json)
 
 ---
 
-### 🚀 Other Tools & Cloud
+### 🚀 DevOps, Version Control & CI/CD
 
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
 
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 ![GitLab](https://img.shields.io/badge/GitLab-000?style=for-the-badge&logo=gitlab)
-![WP-CLI](https://img.shields.io/badge/WP--CLI-000?style=for-the-badge&logo=wordpress)
-![Twig](https://img.shields.io/badge/Twig-000?style=for-the-badge&logo=twig)
-![Composer](https://img.shields.io/badge/Composer-000?style=for-the-badge&logo=composer)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-000?style=for-the-badge&logo=bitbucket)
+
+---
+
+### 🧹 Collaboration & Productivity
+
+![Jira](https://img.shields.io/badge/Jira-000?style=for-the-badge&logo=jira)
+![Trello](https://img.shields.io/badge/Trello-000?style=for-the-badge&logo=trello)
+![Slack](https://img.shields.io/badge/Slack-000?style=for-the-badge&logo=slack)
+![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
+
+---
+
+### ✅ Testing & QA
+
+![ESLint](https://img.shields.io/badge/ESLint-000?style=for-the-badge&logo=eslint)
+![Jest](https://img.shields.io/badge/Jest-000?style=for-the-badge&logo=jest)
+
+---
+
+### 📡 API Clients & Mocking
+
+![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman)
+![Insomnia](https://img.shields.io/badge/Insomnia-000?style=for-the-badge&logo=insomnia)
 
 ---
 
