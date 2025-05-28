@@ -37,8 +37,11 @@ I'm a passionate **Front-End Developer** from Kyiv, Ukraine 🇺🇦
 ![React Router](https://img.shields.io/badge/React%20Router-000?style=for-the-badge&logo=reactrouter)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
 ![Vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vue.js)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-000?style=for-the-badge&logo=nuxt.js)
+![Pinia](https://img.shields.io/badge/Pinia-000?style=for-the-badge&logo=pinia)
 ![Svelte](https://img.shields.io/badge/Svelte-000?style=for-the-badge&logo=svelte)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-000?style=for-the-badge&logo=alpine.js)
+
 
 ---
 
