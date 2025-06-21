@@ -108,12 +108,6 @@ I'm a passionate **Front-End Developer** from Kyiv, Ukraine 🇺🇦
 
 ---
 
-## 📈 GitHub Stats
-
-![NatanRock's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatanRock&show_icons=true&theme=default)
-
----
-
 ## 📫 Let's Connect
 
 - Email: **mr.tishakov@gmail.com**
